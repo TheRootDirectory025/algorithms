@@ -28,4 +28,4 @@ and technical interview preparation.
 ## Goal
 
 Build strong problem-solving and algorithmic thinking
-skills for Software Engineering interviews.
+skills for Software Engineering .
