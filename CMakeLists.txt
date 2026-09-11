@@ -18,4 +18,5 @@ add_executable(algorithms
         03-strings/palindrome.cpp
         04-linked-list/singly_linked_list.cpp
         04-linked-list/doubly_linked_list.cpp
+        04-linked-list/linked_list_operations.cpp
 )
