@@ -20,4 +20,5 @@ add_executable(algorithms
         04-linked-list/doubly_linked_list.cpp
         04-linked-list/linked_list_operations.cpp
         05-stack/stack.cpp
+        05-stack/balanced_parentheses.cpp
 )
