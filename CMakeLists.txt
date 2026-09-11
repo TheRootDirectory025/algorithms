@@ -22,4 +22,5 @@ add_executable(algorithms
         05-stack/stack.cpp
         05-stack/balanced_parentheses.cpp
         05-stack/monotonic_stack.cpp
+        06-queue/queue.cpp
 )
