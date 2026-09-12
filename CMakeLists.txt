@@ -27,4 +27,5 @@ add_executable(algorithms
         06-queue/priority_queue.cpp
         07-hash-table/unordered_map.cpp
         07-hash-table/unordered_set.cpp
+        07-hash-table/frequency_problems.cpp
 )
